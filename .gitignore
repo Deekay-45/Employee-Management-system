@@ -1,0 +1,14 @@
+# Node dependencies
+/Frontend/node_modules/
+/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# npm lockfile at repository root only
+/package-lock.json
+
+# IDE/editor files
+.vscode/
+*.log
